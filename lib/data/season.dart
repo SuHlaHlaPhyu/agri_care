@@ -1,0 +1,1 @@
+enum Season {HOT , RAIN , COLD}

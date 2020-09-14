@@ -1,0 +1,42 @@
+class Name {
+
+  static final String farmer = "လယ်သမား";
+  static final String shop = "အရောင်းဆိုင်";
+  static final String name = "အမည်";
+  static final String phone = "ဖုန်းနံပါတ်";
+  static final String region = "ဒေသ";
+  static final String town = "မြို့";
+  static final String township = "မြို့နယ်";
+  static final String numOfAcre = "ဧကအရေအတွက်";
+  static final String village = "ကျေးရွာ";
+  static final String villages = "ကျေးရွာအုပ်စု";
+  static final String notify = "အသိပေးချက်";
+  static final String notifyText = "စိုက်ပျိုးထားသော ငရုပ်ပင်များ အာဟာရ ပြည့်ဝရန် Compound -15:15:15 ကို ဖြန်းပေးသင့်သော . . . .";
+  static final String search = "ရှာဖွေ";
+  static final String searchText = "ပစ္စည်းအမျိုးအစားရှာရန်";
+  static final String notification = "အကြောင်းကြား";
+  static final String afterCalculate = "တွက်ချက်ပြီး";
+  static final String beforeCalculate = "သီးနှံစိုက်ပျိုးမှု\nတွက်ချက်ရန်";
+  static final String main = "ပင်မ";
+  static final String shops = "ဆိုင်များ";
+  static final String loan = "ချေးငွေ";
+  static final String cultivableLand = "စိုက်ပျိုးဒေသ";
+  static final String season = "ရာသီဥတု";
+  static final String hotSeason = "နွေရာသီ";
+  static final String rainySeason = "မိုးရာသီ";
+  static final String coldSeason = "ဆောင်းရာသီ";
+  static final String crop = "သီးနှံအမျိုးအစား";
+  static final String chooseCrop = "အမျိုးအစားရွေးရန်";
+  static final String cropType = "";
+  static final String acre = "စိုက်ပျိုးမည့်ဧက";
+  static final String forward = "ရှေ့သို့";
+  static final String backward = "နောက်သို့";
+  static final String toCalculate = "တွက်ချက်ရန်";
+  static final String startCultivate = "စတင်စိုက်ပျိုးမည်";
+  static final String loanProcess = "ချေးငွေလျှောက်ရန်";
+  static final String order = "အမှာစာတင်မည်";
+  static final String totalAmount = "စုစုပေါင်းကျသင့်ငွေ 900,000 Ks";
+  static final String uncheck = "";
+  static final String save = "သိမ်းမည်";
+  static final String discard = "ပယ်ဖျက်မည်";
+}
